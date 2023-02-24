@@ -205,6 +205,9 @@ button:hover{
         width:139px;
         margin:0 0 10px 0;
     }
+    .circle h1{
+        font-size:50px;
+    }
     .description h1{
         margin:0;
     }
